@@ -3,10 +3,6 @@ numpy
 pandas
 seaborn
 ipywidgets
-itertools
 collections
 tempfile
-random
-re
-datetime
 multiprocessing
