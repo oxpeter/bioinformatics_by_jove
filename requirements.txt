@@ -3,6 +3,3 @@ numpy
 pandas
 seaborn
 ipywidgets
-collections
-tempfile
-multiprocessing
